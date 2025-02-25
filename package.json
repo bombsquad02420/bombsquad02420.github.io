@@ -1,12 +1,13 @@
 {
   "name": "bombsquad02420",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev --host",
     "build": "vitepress build",
     "preview": "vitepress preview --host"
   },
-  "dependencies": {
+  "devDependencies": {
     "vitepress": "2.0.0-alpha.3"
   }
 }
