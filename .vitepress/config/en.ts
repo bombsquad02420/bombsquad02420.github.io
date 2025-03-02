@@ -43,7 +43,7 @@ export const en = defineConfig({
 			'/resources/': sidebarResources(),
 		},
 		editLink: {
-			pattern: 'https://github.com/bombsquad02420/bombsquad02420.github.io/edit/main/:path',
+			pattern: 'https://github.com/bombsquad02420/wiki/edit/main/:path',
 			text: 'Edit this page on GitHub',
 		},
 		footer: {

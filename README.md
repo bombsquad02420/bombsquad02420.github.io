@@ -1,1 +1,1 @@
-# bombsquad02420.github.io
+# BombSquad Modding Wiki
