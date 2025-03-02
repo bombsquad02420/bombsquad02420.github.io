@@ -26,6 +26,7 @@ function sidebarResources(): DefaultTheme.SidebarItem[] {
 			text: 'Modding Resources',
 			items: [
 				{ text: 'Official Resources', link: '/resources/' },
+				{ text: 'Other Resources', link: '/resources/other-resources' },
 				{ text: 'Map Projections', link: '/resources/map-projections' },
 			]
 		},
